@@ -1,0 +1,59 @@
+{
+  "tools": [
+    {
+      "adder_username": "abc",
+      "renter_username": " ",
+      "tool_name": "hammer",
+      "rent_status": "no",
+      "added_date": "2019/01/14",
+      "booked_date": " ",
+      "per_day_rate": "40",
+      "half_day_rate": "20",
+      "tools_condition": "good"
+    },
+    {
+      "adder_username": "bidwat",
+      "renter_username": " ",
+      "tool_name": "cutter",
+      "rent_status": "no",
+      "added_date": "2019/01/14",
+      "booked_date": " ",
+      "per_day_rate": "100",
+      "half_day_rate": "45",
+      "tools_condition": "good"
+    },
+    {
+      "adder_username": "samratrulz",
+      "renter_username": " ",
+      "tool_name": "leaf blower",
+      "rent_status": "no",
+      "added_date": "2019/01/14",
+      "booked_date": " ",
+      "per_day_rate": "150",
+      "half_day_rate": "40",
+      "tools_condition": "bad"
+    },
+    {
+      "adder_username": "amrit",
+      "renter_username": " ",
+      "tool_name": "spanner",
+      "rent_status": "no",
+      "added_date": "2019/01/14",
+      "booked_date": " ",
+      "per_day_rate": "20",
+      "half_day_rate": "10",
+      "tools_condition": "good"
+    },
+    {
+      "adder_username": "a",
+      "renter_username": " ",
+      "tool_name": "drill",
+      "rent_status": "no",
+      "added_date": "2019/01/15",
+      "booked_date": " ",
+      "per_day_rate": "80",
+      "half_day_rate": "45",
+      "tools_condition": "good"
+    }
+  ]
+}

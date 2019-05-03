@@ -1,0 +1,89 @@
+{
+  "info": [
+    {
+      "Username": "abc",
+      "Password": "123",
+      "Email": "abc@gmail.com"
+    },
+    {
+      "Username": "a",
+      "Password": "a",
+      "Email": "a@gmail.com"
+    },
+    {
+      "Username": "sam",
+      "Password": "sam",
+      "Email": "sam@gmail.com"
+    },
+    {
+      "Username": "samratrulz",
+      "Password": "aezakmi",
+      "Email": "samratbs76@gmail.com"
+    },
+    {
+      "Username": "someone",
+      "Password": "a",
+      "Email": "someone@gmail.com"
+    },
+    {
+      "Username": "praveen",
+      "Password": "123",
+      "Email": "praveen@gmail.com"
+    },
+    {
+      "Username": "amrit",
+      "Password": "amrit",
+      "Email": "amrit@gmail.com"
+    },
+    {
+      "Username": "prat",
+      "Password": "prat",
+      "Email": "prat@gmail.com"
+    },
+    {
+      "Username": "sambs",
+      "Password": "123",
+      "Email": "samratb76@gmail.com"
+    },
+    {
+      "Username": "1234",
+      "Password": "123",
+      "Email": "123@gmail.com"
+    },
+    {
+      "Username": "santosh",
+      "Password": "1",
+      "Email": "santosh@gmail.com"
+    },
+    {
+      "Username": "bidwat",
+      "Password": "1",
+      "Email": "bid@gmail.com"
+    },
+    {
+      "Username": "go",
+      "Password": "to",
+      "Email": "hell@gmail.com"
+    },
+    {
+      "Username": "admin",
+      "Password": "admin",
+      "Email": "admin@gmail.com"
+    },
+    {
+      "Username": "test",
+      "Password": "test",
+      "Email": "test@gmail.com"
+    },
+    {
+      "Username": "home",
+      "Password": "123",
+      "Email": "home123@gmail.com"
+    },
+    {
+      "Username": "sir",
+      "Password": "123",
+      "Email": "sir@gmail.com"
+    }
+  ]
+}
